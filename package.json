@@ -1,0 +1,26 @@
+{
+  "name": "Camera",
+  "version": "1.0.0",
+  "description": "Camera application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "Camera",
+    "Application",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.2",
+    "electron-rebuild": "^1.5.11"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "usb": "^1.2.0"
+  }
+}
